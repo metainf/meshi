@@ -1,0 +1,7 @@
+Header header
+
+string name
+string food_request
+---
+uint32 current_state
+string readable_state
